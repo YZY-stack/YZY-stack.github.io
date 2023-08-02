@@ -9,7 +9,6 @@ venue: 'ArXiv'
 arxiv: 2307.01426
 is_show: Ture
 arxiv_url: https://arxiv.org/abs/2307.01426
-code: https://github.com/SCLBD/DeepfakeBench/
 project: https://github.com/SCLBD/DeepfakeBench/
 teaser: ./images/deepfakebench_pipeline.png
 authors: </b>Zhiyuan Yan</b>, <a href='https://yzhang2016.github.io/'>Yong Zhang</a>,  <a Xinhang Yuan</a>, <a href='https://sites.google.com/site/yanbofan0124/'>Siwei Lyu</a>, and <a href='https://sites.google.com/site/baoyuanwu2015/'>Baoyuan Wu 📮</a>
