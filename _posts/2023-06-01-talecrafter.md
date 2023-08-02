@@ -1,20 +1,18 @@
 ---
-title: "TaleCrafter: Interactive Story Visualization with Multiple Characters"
+title: "HelixADMET: a robust and endpoint extensible ADMET system incorporating self-supervised knowledge transfer"
 collection: publications
-permalink: /publication/talecrafter
+permalink: /publication/HelixADMET
 excerpt: 'TODO.'
-date: 2023-06-01
-year: 2023
+date: 2022-05-17
+year: 2022
 venue: 'ArXiv'
-arxiv: 2305.18247
-arxiv_url: https://arxiv.org/abs/2305.18247
-code: https://github.com/VideoCrafter/TaleCrafter
-project: https://videocrafter.github.io/TaleCrafter/
-teaser: ./images/talecrafter.gif
-authors: <a href='https://github.com/yuanygong'>Yuan Gong</a>, <a href='https://carlyx.github.io/'>Youxin Pang</a>, <b>Xiaodong Cun</b>, <a href='https://menghanxia.github.io/'>Menghan Xia</a>, Yingqing He, Haoxin Chen, <a href='http://longyuewang.com/'>Longyue Wang</a>, <a href='https://yzhang2016.github.io'>Yong Zhang</a>, <a href='https://xinntao.github.io/'>Xintao Wang</a>, <a href='https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ'>Ying Shan</a> and Yujiu Yang
-publication: ArXiv
+arxiv: 2205.08055
+arxiv_url: https://arxiv.org/abs/2205.08055
+code: https://paddlehelix.baidu.com/app/drug/admet/train
+project: https://paddlehelix.baidu.com/app/drug/admet/train
+teaser: ./images/helixadmet.png
+authors: <a href='https://www.researchgate.net/profile/Shanzhuo-Zhang'>Shanzhuo Zhang</a>, </b>Zhiyuan Yan</b>, Yueyang Huang, <a href='https://scholar.google.com/citations?user=Hd-8bzcAAAAJ&hl=en'>lihang liu</a>, Donglong He, <a href='https://dblp.org/pid/35/7092-169.html'>Wei Wang, <a href='https://scholar.google.com/citations?user=Nr9WQrEAAAAJ&hl=en'>Xiaomin Fang</a>, Xiaonan Zhang, <a href='https://scholar.google.com/citations?user=vgFErZQAAAAJ&hl=en'>Fan Wang</a>, <a href='https://scholar.google.com/citations?user=9X2ThuAAAAAJ&hl=en'>Hua Wu</a>, and <a href='https://scholar.google.com/citations?user=jgy4jCAAAAAJ&hl=en'>Haifeng Wang</a>.
+publication: Bioinformatics
 ---
 
-<!-- This paper is about the number 3. The number 4 is left for future work. -->
-
-<!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
+<!-- [Download paper here](https://academic.oup.com/bioinformatics/article-pdf/38/13/3444/49883746/btac342.pdf) -->
