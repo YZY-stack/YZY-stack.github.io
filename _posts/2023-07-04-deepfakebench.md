@@ -11,7 +11,7 @@ is_show: Ture
 arxiv_url: https://arxiv.org/abs/2307.01426
 project: https://github.com/SCLBD/DeepfakeBench/
 teaser: ./images/deepfakebench_pipeline.png
-authors: <b>Zhiyuan Yan</b>, Yong Zhang, Xinhang Yuan, Siwei Lyu, and Baoyuan Wu 📮
+authors: <b>Zhiyuan Yan</b>, et al.
 publication: <b>NeurIPS</b>
 ---
 
